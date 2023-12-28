@@ -1,0 +1,33 @@
+{
+  "name": "hello-shadow-cljs",
+  "version": "1.0.0",
+  "description": "A simple clojurescript project using shadow cljs plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabir123/hello-shadow-cljs.git"
+  },
+  "keywords": [
+    "cljs",
+    "clojurescript",
+    "shadow-cljs",
+    "clojure"
+  ],
+  "author": "Sabir pasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabir123/hello-shadow-cljs/issues"
+  },
+  "homepage": "https://github.com/sabir123/hello-shadow-cljs#readme",
+
+  "devDependencies": {
+    "shadow-cljs": "^2.26.2"
+  },
+
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
