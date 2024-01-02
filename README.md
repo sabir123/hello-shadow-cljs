@@ -10,10 +10,10 @@ Pre-requisites:
 
 Steps to build and run:
 1.Clone the repository and cd into the working directory.
-2)Run npm install, See that a node_modules directory is created and the dependencies are copied.
-3)Run the command shadow-cljs watch app.
-4)A server would be started at port 3000 , launch http://localhost:3000 in Browser.
-5)Open DevTools / inspect in the browser window and verify the message "Hello Shadow-Cljs" printed in the console.
+2.Run npm install, See that a node_modules directory is created and the dependencies are copied.
+3.Run the command shadow-cljs watch app.
+4.A server would be started at port 3000 , launch http://localhost:3000 in Browser.
+5.Open DevTools / inspect in the browser window and verify the message "Hello Shadow-Cljs" printed in the console.
 
 
 
